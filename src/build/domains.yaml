@@ -1,0 +1,7 @@
+default: src
+build_dir: C:/Users/LENOVO/github/air-quality-ble-sensor/src/build
+domains:
+  - name: src
+    build_dir: C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/src
+flash_order:
+  - src

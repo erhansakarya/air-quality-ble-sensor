@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/CMakeFiles/src"
+		},
+		{
+			"file" : "C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/CMakeFiles/src.rule"
+		},
+		{
+			"file" : "C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/CMakeFiles/src-complete.rule"
+		},
+		{
+			"file" : "C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/src-prefix/src/src-stamp/src-build.rule"
+		},
+		{
+			"file" : "C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/src-prefix/src/src-stamp/src-configure.rule"
+		},
+		{
+			"file" : "C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/src-prefix/src/src-stamp/src-download.rule"
+		},
+		{
+			"file" : "C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/src-prefix/src/src-stamp/src-install.rule"
+		},
+		{
+			"file" : "C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/src-prefix/src/src-stamp/src-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/src-prefix/src/src-stamp/src-patch.rule"
+		},
+		{
+			"file" : "C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/src-prefix/src/src-stamp/src-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"src"
+		],
+		"name" : "src"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ src
+# Source files and their labels
+C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/CMakeFiles/src
+C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/CMakeFiles/src.rule
+C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/CMakeFiles/src-complete.rule
+C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/src-prefix/src/src-stamp/src-build.rule
+C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/src-prefix/src/src-stamp/src-configure.rule
+C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/src-prefix/src/src-stamp/src-download.rule
+C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/src-prefix/src/src-stamp/src-install.rule
+C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/src-prefix/src/src-stamp/src-mkdir.rule
+C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/src-prefix/src/src-stamp/src-patch.rule
+C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/sysbuild/images/src-prefix/src/src-stamp/src-update.rule

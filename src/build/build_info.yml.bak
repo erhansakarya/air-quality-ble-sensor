@@ -1,0 +1,22 @@
+cmake:
+  board:
+    name: nrf52840dk
+    path:
+     - C:/ncs/v3.0.2/zephyr/boards/nordic/nrf52840dk
+    qualifiers: nrf52840
+    revision: 
+  images:
+   - name: src
+     source-dir: C:/Users/LENOVO/github/air-quality-ble-sensor/src
+     type: MAIN
+  kconfig:
+    files:
+     - C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/empty.conf
+     - C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/empty.conf
+    user-files:
+     - C:/Users/LENOVO/github/air-quality-ble-sensor/src/build/_sysbuild/empty.conf
+version: 0.1.0
+west:
+  command: C:\ncs\toolchains\0b393f9e1b\opt\bin\Scripts\west build --build-dir c:/Users/LENOVO/github/air-quality-ble-sensor/src/build c:/Users/LENOVO/github/air-quality-ble-sensor/src --pristine --board nrf52840dk/nrf52840 --sysbuild -- -DBOARD_ROOT=c:/users/lenovo/github/air-quality-ble-sensor/src
+  topdir: c:\ncs\v3.0.2
+  version: 1.2.0

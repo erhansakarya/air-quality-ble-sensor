@@ -1,0 +1,2 @@
+osource "C:/Users/LENOVO/github/air-quality-ble-sensor/src/boards/shields/*/Kconfig.shield"
+osource "C:/ncs/v3.0.2/nrf/boards/shields/*/Kconfig.shield"
